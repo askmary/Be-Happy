@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Be-Happy/static/css/main.e6c13ad2.css",
+    "main.js": "/Be-Happy/static/js/main.ac4a301e.js",
+    "static/js/787.1f940bca.chunk.js": "/Be-Happy/static/js/787.1f940bca.chunk.js",
+    "index.html": "/Be-Happy/index.html",
+    "main.e6c13ad2.css.map": "/Be-Happy/static/css/main.e6c13ad2.css.map",
+    "main.ac4a301e.js.map": "/Be-Happy/static/js/main.ac4a301e.js.map",
+    "787.1f940bca.chunk.js.map": "/Be-Happy/static/js/787.1f940bca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ac4a301e.js"
+  ]
+}
